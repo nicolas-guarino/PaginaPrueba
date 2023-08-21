@@ -85,6 +85,17 @@ h1, h2, h3 {
 
 /* Titulos */
 
+
+header {
+    background-color: var(--negro);
+    color: var(--blanco);
+    margin: 0;
+    padding: 2.5rem;
+}
+header h1 {
+    margin: 0;
+}
+
 .titulo span{
     font-size: 2rem;
 }
